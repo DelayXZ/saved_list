@@ -1,1 +1,3720 @@
--- cannot  directly import.
+== Request Data Bot | Server Side Not Avaliable, Impossible. ==
+
+── Vehicle Depot
+   Size          : (11, 4, 7)
+   Position      : (583.7, 2, 17.55)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Barracks
+   Size          : (3, 1.739, 6)
+   Position      : (663.85, 2.87, -12.)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Crane
+   Size          : (1.8, 7.1, 1.8)
+   Position      : (665.2, 5.55, -25.)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Drone Center
+   Size          : (4, 2.839, 4)
+   Position      : (673.129, 3.42, -15.765)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Water Tower
+   Size          : (1.1, 2.5, 1.3)
+   Position      : (662.95, 3.25, -21.15)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Oil Drill
+   Size          : (1.7, 3.7, 6)
+   Position      : (474.72, 1.867, -74.96)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Radio Tower
+   Size          : (0.5, 7.2, 0.5)
+   Position      : (667.25, 5.6, -24.25)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Research Lab
+   Size          : (9.1, 5.95, 7.6)
+   Position      : (689.192, 4.975, -16.216)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Anti-Air Turret
+   Size          : (1.9, 1.9, 1.5)
+   Position      : (662.75, 2.95, -17.95)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Wall Segment
+   Size          : (3.7, 3.55, 0.4)
+   Position      : (665.918, 3.775, -9.721)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Wall Guard Post
+   Size          : (1.1, 3.55, 0.8)
+   Position      : (675.615, 3.775, -9.721)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Wall Tower
+   Size          : (1.1, 3.55, 0.8)
+   Position      : (670.121, 3.775, -9.721)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Power Plant
+   Size          : (6.1, 3.55, 5.5)
+   Position      : (672.425, 3.775, -25.65)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Radar Complex
+   Size          : (6, 3.55, 6)
+   Position      : (691.35, 3.775, -22.25)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Road
+   Size          : (0.5, 0.05, 0.5)
+   Position      : (5.8, 0.025, -18.95)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Solar Array
+   Size          : (4, 2.5, 4)
+   Position      : (606.9, 1.25, 29.65)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Refinery
+   Size          : (6.4, 3.9, 5.5)
+   Position      : (595.545, 1.95, 24.824)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Small Tree
+   Size          : (0.9, 4.6, 0.9)
+   Position      : (603.635, 2.315, 12.747)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Tree
+   Size          : (1.25, 8.9, 1.3)
+   Position      : (605.773, 4.507, 16.062)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Medium Tree
+   Size          : (1.25, 7.35, 1.3)
+   Position      : (606.03, 12.399, 15.531)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Space Elevator
+   Size          : (23, 458.15, 22)
+   Position      : (613.75, 229.075, 92.597)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Heavy Infantry Building
+   Size          : (3.9, 1.85, 2.8)
+   Position      : (575.1, 0.925, 12.225)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Advanced Solar Array
+   Size          : (4.8, 3.5, 4.7)
+   Position      : (568.282, 1.75, 12.034)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Rally Center
+   Size          : (3, 0.8, 3)
+   Position      : (602.35, 0.4, 45.9)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Test Mutation Vehicle Depot
+   Size          : (9.3, 3.467, 11.725)
+   Position      : (5.875, 3.734, -2.775)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Special Forces Compound
+   Size          : (3.4, 1.65, 2.5)
+   Position      : (553.784, 0.825, 14.097)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Painted Road
+   Size          : (0.5, 0.05, 0.5)
+   Position      : (569.85, 0.025, 61.5)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Humvee Plant
+   Size          : (6.7, 2.5, 4.5)
+   Position      : (659.05, 5.489, -13.95)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sniper's Nest
+   Size          : (3.2, 2.45, 3.4)
+   Position      : (679.55, 3.225, -7.)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Munitions Depot
+   Size          : (4.8, 1.9, 3.7)
+   Position      : (606.661, 0.95, 63.7)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Logistics Warehouse
+   Size          : (3.1, 1.3, 3.2)
+   Position      : (605.35, 0.65, 10.05)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Wall Corner
+   Size          : (0.5, 3.65, 0.5)
+   Position      : (602.291, 1.825, 6.101)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Light Tank Factory
+   Size          : (7.1, 2.6, 5.2)
+   Position      : (596.25, 1.3, 17.1)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Experimental Gantry
+   Size          : (11.9, 4.25, 8.5)
+   Position      : (574.15, 2.125, 22.9)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Headquarters
+   Size          : (11.9, 4.467, 15.1)
+   Position      : (680.741, 4.234, -8.553)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Crane
+   Size          : (1.8, 7.1, 1.8)
+   Position      : (665.2, 5.55, -25.)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Logistics Hub
+   Size          : (4.5, 1.95, 3.3)
+   Position      : (586.682, 0.975, 18.786)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Logistics Center
+   Size          : (6.3, 2.2, 4.5)
+   Position      : (574.05, 1.1, -0.95)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Wind Turbine
+   Size          : (1.5, 8.2, 1.5)
+   Position      : (492.15, 4.1, -82.35)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Supply Depot
+   Size          : (4, 2.1, 5)
+   Position      : (651.75, 1.05, 208.395)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Radioactive Material
+   Size          : (0.5, 0.6, 0.5)
+   Position      : (604.79, 0.862, 37.848)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Leaking Radioactive Material
+   Size          : (0.5, 0.6, 0.5)
+   Position      : (604.79, 0.862, 37.848)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Nuclear Bomb
+   Size          : (0.5, 0.5, 0.5)
+   Position      : (603.315, 0.858, 37.93)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Road Intersection
+   Size          : (0.5, 0.05, 0.5)
+   Position      : (569.4, 0.025, 54.75)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Lamppost
+   Size          : (0.1, 1.9, 0.1)
+   Position      : (594.392, 0.95, 36.121)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Small Rock
+   Size          : (2.15, 1, 2)
+   Position      : (1008.533, 4.845, 412.612)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Rock
+   Size          : (1.49, 1, 1.43)
+   Position      : (997.019, 12.527, 382.062)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sandbags
+   Size          : (0.5, 0.31, 0.5)
+   Position      : (600.481, 0.155, 43.009)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Pentagon
+   Size          : (12.5, 2.95, 18)
+   Position      : (522.727, 1.475, -11.053)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Steel Factory
+   Size          : (5.1, 2.45, 6.6)
+   Position      : (556.582, 1.225, -30.926)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── ADMIN BUILDING
+   Size          : (3.6, 3.55, 0.4)
+   Position      : (665.918, 3.775, -9.721)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Nuclear Bomb
+   Size          : (0.24, 1.2, 0.24)
+   Position      : (667.145, 2.6, -8.47)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Advanced Solar Array
+   Size          : (4.8, 3.5, 4.7)
+   Position      : (560.4, 1.75, 11.95)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Mech Statue
+   Size          : (3, 4.9, 3)
+   Position      : (616.45, 2.45, 76.65)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Mech Statue
+   Size          : (3, 2.95, 3)
+   Position      : (610.061, 1.475, 75.64)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Soldier Statue
+   Size          : (3, 3.15, 3)
+   Position      : (601.45, 1.575, 81.35)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Heavy Soldier Statue
+   Size          : (3, 2.95, 3)
+   Position      : (601.45, 1.475, 78.)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Wind Turbine
+   Size          : (1.5, 10.499, 1.5)
+   Position      : (47.4, 5.249, 85.55)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Iron Mines
+   Size          : (3.5, 1.6, 2.2)
+   Position      : (10.413, 0.8, -8.343)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Bank
+   Size          : (5.2, 4.55, 3.5)
+   Position      : (545.325, 2.275, 43.925)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Hydroponics Facility
+   Size          : (6.2, 2.15, 6.8)
+   Position      : (534.349, 1.075, 45.736)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Bank
+   Size          : (5.2, 4.55, 3.5)
+   Position      : (545.325, 2.275, 43.925)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Apache Helipad
+   Size          : (8.2, 2.767, 7.6)
+   Position      : (553, 1.384, 70.2)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Cobra Helipad
+   Size          : (5.9, 1.717, 5.9)
+   Position      : (543.815, 0.859, 71.066)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Statue of Freedom
+   Size          : (4, 11.917, 4)
+   Position      : (541.446, 5.958, 63.627)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Monument
+   Size          : (4, 12.717, 4)
+   Position      : (550.283, 6.359, 61.871)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Clocktower
+   Size          : (2.4, 11.467, 2.4)
+   Position      : (536.2, 5.734, 65.95)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Capitol Building
+   Size          : (13.1, 7.017, 4.3)
+   Position      : (543.51, 3.509, 77.377)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Executive Residence
+   Size          : (8, 2.967, 3.7)
+   Position      : (530.046, 1.484, 78.512)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Jet Hangar
+   Size          : (7.3, 4.417, 4.3)
+   Position      : (546.409, 2.209, 93.302)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Industrial Drill
+   Size          : (5.3, 6.067, 5.2)
+   Position      : (524.948, 3.034, 106.929)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Mechanized Armory
+   Size          : (8.8, 4.417, 6)
+   Position      : (595.098, 2.209, 121.304)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Fusion Reactor
+   Size          : (9.1, 4.014, 9.8)
+   Position      : (584.347, 2.007, 120.721)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── ATC Tower
+   Size          : (7.1, 8.717, 4.7)
+   Position      : (565.276, 4.359, 93.792)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Amethyst Tree
+   Size          : (1.3, 9.878, 1.4)
+   Position      : (519.933, 5.194, -221.262)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Forklift
+   Size          : (0.5, 0.893, 0.5)
+   Position      : (573.368, 0.454, 46.689)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : SmoothPlastic
+   Transparency  : 1
+   CanCollide    : false
+
+── Decorative Jet
+   Size          : (0.5, 1.033, 0.5)
+   Position      : (572.522, 0.516, 45.146)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Decorative Chinook
+   Size          : (0.5, 1.449, 0.5)
+   Position      : (578.439, 2.174, 48.384)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Decorative Tank
+   Size          : (0.5, 1.073, 0.5)
+   Position      : (577.866, 0.537, 49.6)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Storage Facility
+   Size          : (4.8, 2.1, 6.3)
+   Position      : (523.279, 1.35, 37.723)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Sidewalk
+   Size          : (0.5, 0.075, 0.5)
+   Position      : (574.75, 0.038, 54.125)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Small Sidewalk
+   Size          : (0.5, 0.075, 0.5)
+   Position      : (572.625, 0.038, 55.225)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Decorative Humvee
+   Size          : (0.723, 0.798, 1.659)
+   Position      : (582.088, 0.399, 45.179)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Central Office
+   Size          : (15, 6.362, 12.2)
+   Position      : (539.071, 3.181, -5.932)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Cookie Stand
+   Size          : (0.361, 0.524, 0.35)
+   Position      : (535.02, 0.262, 42.025)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Secret Weapons Facility
+   Size          : (12.7, 4.417, 7.1)
+   Position      : (552.3, 2.209, 102.984)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Air Defense Compound
+   Size          : (7.3, 4.417, 4.3)
+   Position      : (566.502, 2.209, 102.629)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Tree
+   Size          : (1.387, 9.878, 1.443)
+   Position      : (553.523, 13.799, 146.1)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Exterior Vent
+   Size          : (0.5, 0.8, 0.5)
+   Position      : (602.55, 0.4, 164.067)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Ventilation System
+   Size          : (0.5, 0.55, 0.5)
+   Position      : (602.55, 0.275, 162.682)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Square Box
+   Size          : (0.5, 0.45, 0.5)
+   Position      : (603.1, 0.225, 161.365)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Silo
+   Size          : (0.5, 2, 0.5)
+   Position      : (599.213, 1, 161.793)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Barrel
+   Size          : (0.5, 0.6, 0.5)
+   Position      : (604.261, 0.3, 162.25)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Small Container
+   Size          : (0.5, 0.35, 0.5)
+   Position      : (604.175, 0.175, 163.897)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Regional Depot
+   Size          : (3.9, 7.517, 10.5)
+   Position      : (486.152, 3.952, 200.796)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Nuclear Silo
+   Size          : (6.3, 3.017, 6.5)
+   Position      : (570.348, 1.509, 148.629)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Huge Sidewalk
+   Size          : (0.5, 0.075, 0.5)
+   Position      : (582.2, 0.038, 144.925)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Eiffel Tower
+   Size          : (5.4, 11.967, 5.4)
+   Position      : (539.538, 5.984, 62.949)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Tiny Rock
+   Size          : (0.5, 0.5, 0.5)
+   Position      : (1026.171, -0.015, 424.763)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Dirt Path
+   Size          : (0.5, 0.075, 0.5)
+   Position      : (594.65, 0.038, 170.275)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Dirt Path
+   Size          : (0.5, 0.075, 0.5)
+   Position      : (594.45, 0.038, 172.225)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Medium Red Tree
+   Size          : (1.25, 7.35, 1.3)
+   Position      : (662.341, 3.903, 100.414)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Medium Yellow Tree
+   Size          : (1.25, 7.35, 1.3)
+   Position      : (663.584, 3.903, 94.463)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Missile Turret
+   Size          : (4, 4.934, 3.8)
+   Position      : (750.745, 7.367, 124.658)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Security Checkpoint
+   Size          : (2.583, 0.73, 0.685)
+   Position      : (687.57, 0.475, 155.818)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Large Pipes
+   Size          : (0.8, 1.45, 2.6)
+   Position      : (697.65, 0.825, 168.791)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Strategic Command Center
+   Size          : (13.1, 5.062, 14.8)
+   Position      : (421.75, 2.531, 189.622)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── ProPyramids
+   Size          : (16.5, 12.612, 16.4)
+   Position      : (552.95, 6.306, -9.9)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Golden Missile Turret
+   Size          : (4, 4.934, 3.8)
+   Position      : (681.846, 12.221, 102.605)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── LARGE ProPyramids
+   Size          : (132, 100.897, 131.2)
+   Position      : (552.95, 6.306, -9.9)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Corporate Campus
+   Size          : (17.5, 3.017, 17)
+   Position      : (506.828, 1.509, 113.445)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Observation Tower
+   Size          : (4.4, 19.817, 4.4)
+   Position      : (491.45, 9.908, 125.8)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Aegis Security Post
+   Size          : (6, 3.05, 9)
+   Position      : (543.8, 1.525, 52.)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Balloon Cart
+   Size          : (0.552, 1.184, 0.721)
+   Position      : (705.112, 0.396, 181.52)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Scout Watchtower
+   Size          : (1.9, 4.9, 1.8)
+   Position      : (764.975, 2.55, 163.975)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Behemoth Fortress
+   Size          : (5.9, 8.8, 9.65)
+   Position      : (545.075, 4.4, 236.4)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Skyport
+   Size          : (1.8, 8.8, 6.3)
+   Position      : (780.454, 4.5, 135.599)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Particle Accelerator
+   Size          : (6.8, 7.2, 6.8)
+   Position      : (710.933, 3.6, 194.375)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Materials Research Wing
+   Size          : (12.5, 2.6, 12)
+   Position      : (802.6, 1.4, 160.1)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Regional Hub
+   Size          : (3.9, 7.517, 10.5)
+   Position      : (486.152, 3.952, 200.796)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── ATV Tent
+   Size          : (4.4, 2.308, 2.9)
+   Position      : (731.438, 1.254, 160.)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Derelict Factory
+   Size          : (15, 10.667, 13.35)
+   Position      : (725.925, 5.433, 149.6)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Huey Helipad
+   Size          : (4.5, 0.984, 4.5)
+   Position      : (740.05, 0.592, 159.)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Shield Generator
+   Size          : (3.1, 2.883, 3.1)
+   Position      : (707.71, 1.542, 163.764)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Farm
+   Size          : (1, 2.567, 1)
+   Position      : (695.446, 2.356, 102.605)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── LARGE Farm
+   Size          : (1, 2.567, 1)
+   Position      : (681.846, 4.973, 102.605)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Response Center
+   Size          : (2.7, 2.05, 2.7)
+   Position      : (764.4, 1.975, 125.95)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Reinforced Gate
+   Size          : (4.5, 2.75, 1.2)
+   Position      : (808.989, 2.325, 161.981)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Reinforced Wall
+   Size          : (4.5, 2.75, 1.2)
+   Position      : (809.14, 2.325, 156.551)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Wall Gate
+   Size          : (5.8, 3.45, 1.2)
+   Position      : (812.65, 2.675, 153.25)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Wall
+   Size          : (5.8, 3.45, 1.2)
+   Position      : (808.7, 2.675, 146.962)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Wall Tower
+   Size          : (2.1, 4.7, 2.1)
+   Position      : (808.32, 3.3, 142.669)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Watchtower
+   Size          : (0.9, 4.042, 0.9)
+   Position      : (815.85, 2.971, 141.65)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Bunker
+   Size          : (2.25, 2.244, 2.25)
+   Position      : (801.225, 2.072, 149.025)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Barricade
+   Size          : (0.8, 0.5, 0.2)
+   Position      : (800.35, 1.2, 153.976)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Radar Dish
+   Size          : (2.1, 4.2, 2.1)
+   Position      : (765., 3.05, 136.403)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Operations Building
+   Size          : (7.4, 3.6, 6.3)
+   Position      : (794.662, 2.75, 128.508)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Barracks
+   Size          : (3., 1.65, 5.4)
+   Position      : (777.7, 1.775, 128.55)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Munitions Assembly
+   Size          : (6, 4., 12.6)
+   Position      : (784.9, 2.95, 130.95)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Sentinel Listening Post
+   Size          : (5.2, 5.6, 9.5)
+   Position      : (770.95, 3.75, 129.1)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Orbital Outpost
+   Size          : (1, 32.6, 1)
+   Position      : (819.1, 17.25, 129.05)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Bluesteel Tree
+   Size          : (1.387, 9.878, 1.443)
+   Position      : (686.703, 5.336, 145.019)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Data Center
+   Size          : (10.3, 9.4, 11.7)
+   Position      : (697.891, 4.9, 161.806)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Wing Command
+   Size          : (8.7, 6.25, 7)
+   Position      : (702.029, 3.325, 145.196)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Providence Station
+   Size          : (1, 43.95, 1)
+   Position      : (781.44, 22.925, 162.557)
+   Orientation   : (0, -90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Howitzer
+   Size          : (3.5, 3.6, 3.5)
+   Position      : (801.351, 1.8, 274.426)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Field Tent
+   Size          : (3, 1.267, 2)
+   Position      : (740.175, 0.841, 140.37)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Valkyrie Nexus
+   Size          : (5.5, 3.6, 5)
+   Position      : (768.974, 2.75, 140.203)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Decorative Infantry
+   Size          : (0.5, 0.7, 0.5)
+   Position      : (760.803, 1.3, 142.72)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Missile Foundry
+   Size          : (6.4, 3.6, 10)
+   Position      : (843.75, 1.8, 155.75)
+   Orientation   : (180, 0, 180)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Titanic Shipyard
+   Size          : (19, 11.6, 31)
+   Position      : (919.651, 33.35, 463.552)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Aircraft Supply Depot
+   Size          : (5, 3.6, 5)
+   Position      : (901.21, 1.8, 421.966)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Naval Supply Depot
+   Size          : (6, 3.6, 6)
+   Position      : (933.6, 9.75, 435.8)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Offshore Research Platform
+   Size          : (7.5, 4.5, 7.5)
+   Position      : (993.35, 27.423, 454.579)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Offshore Oil Rig
+   Size          : (7, 3.6, 7)
+   Position      : (942.482, 20.8, 457.353)
+   Orientation   : (0, 90, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Patrol Office
+   Size          : (7, 3.6, 7)
+   Position      : (899.671, 49.901, 476.907)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+── Naval Shipyard
+   Size          : (15, 3.6, 19)
+   Position      : (842.676, 17.8, 405.338)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : SmoothPlastic
+   Transparency  : 1
+   CanCollide    : false
+
+── Ocean Terminal
+   Size          : (13, 3.6, 19)
+   Position      : (899.671, 28.35, 476.907)
+   Orientation   : (0, 0, 0)
+   Anchored      : true
+   Material      : Neon
+   Transparency  : 1
+   CanCollide    : false
+
+
+==============================================================================
+  TRAITS  —  Config ModuleScript source
+==============================================================================
+
+── Trait  [Config]
+──────────────────────────────────────────────────────────────────────────────
+(Config ModuleScript not found)
+··············································································
+
+── Config  [Config]
+──────────────────────────────────────────────────────────────────────────────
+(Config ModuleScript not found)
+··············································································
+
+── Reference Trait  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://95522317122440",
+        Appearance = {
+                Size = 2,
+                UnitSize = 2,
+                Colors = { Color3.fromRGB(238, 198, 142), Color3.fromRGB(238, 198, 142) },
+                Materials = { Enum.Material.Metal, Enum.Material.Metal },
+                Transparencies = { 0.5 }
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 2,
+                        UnitHealth = 2,
+                        UnitSpeed = 2
+                },
+                Modifiers = {
+                        UnitSize = 1,
+                        UnitSpawnCount = 1
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        IncomeSpeed = 2,
+                        ResourceProduction = 2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Awakened  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Unique",
+        Icon = "rbxassetid://131832048569625",
+        Description = "Increases production generation by 1000% and decreases collection time by 1/2. Units receive a 200% HP and damage buff.",
+        Appearance = {
+                Size = 1.2,
+                UnitSize = 1.2,
+                Colors = { Color3.fromRGB(238, 198, 142), Color3.fromRGB(238, 198, 142) },
+                Materials = { Enum.Material.Metal, Enum.Material.Metal },
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 2,
+                        UnitHealth = 2
+                },
+                Modifiers = {
+                        UnitSize = 2
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        IncomeSpeed = 2,
+                        ResourceProduction = 10
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 10%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.1
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 20%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 10%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.1
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Rapid Response II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://111699497374259",
+        Description = "Spawns 2 additional units",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {
+                        UnitSpawnCount = 2
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Supply Lines I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://84888171719066",
+        Description = "Reduces unit supply size by 1",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {
+                        UnitSize = -1
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Elite  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://113387210828747",
+        Description = "Increases health and damage by 75%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.75,
+                        UnitHealth = 0.75,
+                        UnitSpeed = 0.25
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 20%. Increases unit size by 10%. Increases unit health by 10%",
+        Appearance = {
+                Size = 1.1,
+                UnitSize = 1.1,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.1
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 10%. Reduces unit size by 10%. Increases unit damage by 10%",
+        Appearance = {
+                Size = 0.9,
+                UnitSize = 0.9,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.1
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.1
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Ghostly  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Unique",
+        Icon = "rbxassetid://125894673855185",
+        Description = "Increases production generation by 1000% and decreases collection time by 1/2. Increases unit speed, health and damage by 125%. Decreases unit size by 3.",
+        Appearance = {
+                Size = 0.5,
+                Colors = {},
+                Materials = { Enum.Material.SmoothPlastic, Enum.Material.SmoothPlastic },
+                Transparencies = { 0.5 }
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 1.25,
+                        UnitHealth = 1.25,
+                        UnitSpeed = 1.25
+                },
+                Modifiers = {
+                        UnitSize = -3
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        IncomeSpeed = 2,
+                        ResourceProduction = 10
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 40%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked III  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 75%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.75
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked IV  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 110%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 1.1
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked V  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 140%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 1.4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked VI  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 180%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 1.8
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked VII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 250%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 2.5
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked VIII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 300%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 3
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked IX  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 400%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Overclocked X  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://101156079954983",
+        Description = "Increases production by 500%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 5
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 20%. Reduces unit size by 15%. Increases unit damage by 20%",
+        Appearance = {
+                Size = 0.85,
+                UnitSize = 0.85,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.2
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny III  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 40%. Reduces unit size by 20%. Increases unit damage by 25%",
+        Appearance = {
+                Size = 0.8,
+                UnitSize = 0.8,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.25
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny IV  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 60%. Reduces unit size by 25%. Increases unit damage by 30%",
+        Appearance = {
+                Size = 0.75,
+                UnitSize = 0.75,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.3
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.6
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny V  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 100%. Reduces unit size by 30%. Increases unit damage by 35%",
+        Appearance = {
+                Size = 0.7,
+                UnitSize = 0.7,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.35
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 1
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny VI  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 140%. Reduces unit size by 35%. Increases unit damage by 40%",
+        Appearance = {
+                Size = 0.65,
+                UnitSize = 0.65,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.4
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 1.4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny VII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 200%. Reduces unit size by 40%. Increases unit damage by 45%",
+        Appearance = {
+                Size = 0.6,
+                UnitSize = 0.6,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.45
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny VIII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 250%. Reduces unit size by 45%. Increases unit damage by 50%",
+        Appearance = {
+                Size = 0.55,
+                UnitSize = 0.55,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.5
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 2.5
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny IX  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 300%. Reduces unit size by 50%. Increases unit damage by 55%",
+        Appearance = {
+                Size = 0.5,
+                UnitSize = 0.5,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.55
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 3
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Tiny X  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://93851881601226",
+        Description = "Increases production by 400%. Reduces unit size by 50%. Increases unit damage by 60%",
+        Appearance = {
+                Size = 0.5,
+                UnitSize = 0.5,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.6
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 40%. Increases unit size by 15%. Increases unit health by 15%",
+        Appearance = {
+                Size = 1.15,
+                UnitSize = 1.15,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.15
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic III  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 80%. Increases unit size by 20%. Increases unit health by 20%",
+        Appearance = {
+                Size = 1.2,
+                UnitSize = 1.2,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.2
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 0.8
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic IV  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 120%. Increases unit size by 25%. Increases unit health by 25%",
+        Appearance = {
+                Size = 1.25,
+                UnitSize = 1.25,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.25
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 1.2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic V  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 200%. Increases unit size by 30%. Increases unit health by 30%",
+        Appearance = {
+                Size = 1.3,
+                UnitSize = 1.3,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.3
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 2
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic VI  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 280%. Increases unit size by 35%. Increases unit health by 35%",
+        Appearance = {
+                Size = 1.35,
+                UnitSize = 1.35,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.35
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 2.8
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic VII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 400%. Increases unit size by 40%. Increases unit health by 40%",
+        Appearance = {
+                Size = 1.4,
+                UnitSize = 1.4,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.4
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 4
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic VIII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 600%. Increases unit size by 45%. Increases unit health by 45%",
+        Appearance = {
+                Size = 1.45,
+                UnitSize = 1.45,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.45
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 6
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic IX  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 800%. Increases unit size by 50%. Increases unit health by 75%",
+        Appearance = {
+                Size = 1.5,
+                UnitSize = 1.5,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 0.75
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 8
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Titanic X  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://96550260395554",
+        Description = "Increases production by 1400%. Increases unit size by 100%. Increases unit health by 100%",
+        Appearance = {
+                Size = 2,
+                UnitSize = 2,
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitHealth = 1
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {
+                        ResourceProduction = 14
+                },
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 20%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.2
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift III  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 30%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.3
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift IV  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 40%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.4
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift V  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 50%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.5
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile X  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 125%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 1.25
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift VI  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 60%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.6
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift VII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 70%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.7
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift VIII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 80%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.8
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift IX  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 90%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 0.9
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Swift X  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://91490694730848",
+        Description = "Increases unit speed by 125%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitSpeed = 1.25
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Supply Lines II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://84888171719066",
+        Description = "Reduces unit supply size by 2",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {
+                        UnitSize = -2
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Supply Lines III  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Mythic",
+        Icon = "rbxassetid://84888171719066",
+        Description = "Reduces unit supply size by 3",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {
+                        UnitSize = -3
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Rapid Response I  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://111699497374259",
+        Description = "Spawns 1 additional unit",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {},
+                Modifiers = {
+                        UnitSpawnCount = 1
+                }
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile II  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Common",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 20%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.2
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile III  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 30%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.3
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile IV  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Uncommon",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 40%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.4
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile V  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 50%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.5
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile VI  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Rare",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 60%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.6
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile VII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 70%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.7
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile VIII  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Epic",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 80%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 0.8
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Volatile IX  [Config]
+──────────────────────────────────────────────────────────────────────────────
+return {
+        Rarity = "Legendary",
+        Icon = "rbxassetid://85939881003179",
+        Description = "Increases unit damage by 100%",
+        Appearance = {
+                Colors = {},
+                Materials = {},
+                Transparencies = {}
+        },
+        Unit = {
+                Multipliers = {
+                        UnitDamage = 1
+                },
+                Modifiers = {}
+        },
+        ResourceProduction = {
+                Multipliers = {},
+                Modifiers = {}
+        }
+}
+··············································································
+
+── Workspace.Plots.Unclaimed  [Folder]
+   (no tracked properties)
+
+── Workspace.Plots.Unclaimed.baseplate  [Folder]
+   (no tracked properties)
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea2  [Part]
+   Size              : (50, 2, 50)
+   Position          : (335.876, 1., 265.165)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea3  [Part]
+   Size              : (50, 2, 50)
+   Position          : (265.165, 1., 335.876)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea1  [Part]
+   Size              : (50, 2, 50)
+   Position          : (300.52, 1., 300.52)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea5  [Part]
+   Size              : (50, 2, 50)
+   Position          : (335.876, 1., 335.876)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea7  [Part]
+   Size              : (50, 2, 50)
+   Position          : (406.586, 1., 335.876)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea4  [Part]
+   Size              : (50, 2, 50)
+   Position          : (371.231, 1., 300.52)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea11  [Part]
+   Size              : (50, 2, 50)
+   Position          : (406.586, 1., 406.586)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+   Transparency      : 1
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea9  [Part]
+   Size              : (50, 2, 50)
+   Position          : (335.876, 1., 406.586)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea6  [Part]
+   Size              : (50, 2, 50)
+   Position          : (300.52, 1., 371.231)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea8  [Part]
+   Size              : (50, 2, 50)
+   Position          : (371.231, 1., 371.231)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea10  [Part]
+   Size              : (50, 2, 50)
+   Position          : (441.942, 1., 371.231)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+   Transparency      : 1
+
+── Workspace.Plots.Unclaimed.baseplate.buildArea.buildArea12  [Part]
+   Size              : (50, 2, 50)
+   Position          : (371.231, 1., 441.942)
+   Orientation       : (0, -45, 0)
+   Anchored          : true
+   Material          : ForceField
+   Transparency      : 1
+
+============================================================================
+
+── ReplicatedStorage  [ReplicatedStorage]
+   (no tracked properties)
+
+── ReplicatedStorage.Shared.Resources.RewardResources.Configs  [Folder]
+   (no tracked properties)
+
+── ReplicatedStorage.Shared.Resources.RewardResources.Configs.Playtime  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	Interval = 600,
+	Rewards = {
+		{
+			Money = {
+				Weight = 0.4,
+				Quantity = 5000
+			},
+			["Advanced Solar Array"] = {
+				Weight = 0.4,
+				Quantity = 1
+			},
+			["Heavy Infantry Building"] = {
+				Weight = 0.2,
+				Quantity = 1
+			}
+		},
+		{
+			Money = {
+				Weight = 0.2,
+				Quantity = 10000
+			},
+			["Advanced Solar Array"] = {
+				Weight = 0.5,
+				Quantity = 2
+			},
+			Refinery = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Heavy Infantry Building"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			Money = {
+				Weight = 0.3,
+				Quantity = 15000
+			},
+			Refinery = {
+				Weight = 0.3,
+				Quantity = 1
+			},
+			["Power Plant"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Special Forces Compound"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Radio Tower"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			Money = {
+				Weight = 0.1,
+				Quantity = 20000
+			},
+			["Power Plant"] = {
+				Weight = 0.55,
+				Quantity = 1
+			},
+			Refinery = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Special Forces Compound"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Radar Complex"] = {
+				Weight = 0.05,
+				Quantity = 1
+			}
+		},
+		{
+			Money = {
+				Weight = 0.2,
+				Quantity = 30000
+			},
+			["Power Plant"] = {
+				Weight = 0.4,
+				Quantity = 2
+			},
+			["Special Forces Compound"] = {
+				Weight = 0.3,
+				Quantity = 1
+			},
+			["Radar Complex"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			Money = {
+				Weight = 0.1,
+				Quantity = 50000
+			},
+			Refinery = {
+				Weight = 0.5,
+				Quantity = 2
+			},
+			["Oil Drill"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Radar Complex"] = {
+				Weight = 0.2,
+				Quantity = 1
+			}
+		}
+	}
+}
+············································································
+
+── ReplicatedStorage.Shared.Resources.RewardResources.Configs.CaptureArea  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	RewardInterval = 300,
+	LootTable = {
+		Standard = 0.79,
+		Elite = 0.2,
+		Premium = 0.01
+	}
+}
+············································································
+
+── ReplicatedStorage.Shared.Resources.RewardResources.Configs.DailyLogin  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	Rewards = {
+		{
+			["Research Lab"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Drone Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Vehicle Depot"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Logistics Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Jet Hangar"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Nuclear Bomb"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Industrial Drill"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Chinook"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Jet"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Air Defense Compound"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			Headquarters = {
+				Weight = 0.15,
+				Quantity = 1
+			},
+			["Regional Depot"] = {
+				Weight = 0.05,
+				Quantity = 1
+			},
+			["Cobra Helipad"] = {
+				Weight = 0.3,
+				Quantity = 1
+			},
+			["ATC Tower"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Cookie Stand"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Corporate Campus"] = {
+				Weight = 0.05,
+				Quantity = 1
+			},
+			["Missile Turret"] = {
+				Weight = 0.05,
+				Quantity = 1
+			}
+		},
+		{
+			["Research Lab"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Drone Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Vehicle Depot"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Logistics Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Jet Hangar"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Nuclear Bomb"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Industrial Drill"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Chinook"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Jet"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Air Defense Compound"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			["Research Lab"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Drone Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Vehicle Depot"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Logistics Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Jet Hangar"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Nuclear Bomb"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Industrial Drill"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Chinook"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Jet"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Air Defense Compound"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			["Research Lab"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Drone Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Vehicle Depot"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Logistics Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Jet Hangar"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Nuclear Bomb"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Industrial Drill"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Chinook"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Jet"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Air Defense Compound"] = {
+				Weight = 0.1,
+				Quantity = 1
+			}
+		},
+		{
+			["Research Lab"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Drone Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Vehicle Depot"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Logistics Center"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Jet Hangar"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Nuclear Bomb"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Industrial Drill"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Chinook"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Decorative Jet"] = {
+				Weight = 0.1,
+				Quantity = 1
+			},
+			["Air Defense Compound"] = {
+				Weight = 0.05,
+				Quantity = 1
+			},
+			["Experimental Gantry"] = {
+				Weight = 0.05,
+				Quantity = 1
+			}
+		},
+		{
+			Headquarters = {
+				Weight = 0.15,
+				Quantity = 1
+			},
+			["Regional Depot"] = {
+				Weight = 0.05,
+				Quantity = 1
+			},
+			["Cobra Helipad"] = {
+				Weight = 0.3,
+				Quantity = 1
+			},
+			["ATC Tower"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Cookie Stand"] = {
+				Weight = 0.2,
+				Quantity = 1
+			},
+			["Corporate Campus"] = {
+				Weight = 0.05,
+				Quantity = 1
+			},
+			["Missile Turret"] = {
+				Weight = 0.05,
+				Quantity = 1
+			}
+		}
+	}
+}
+············································································
+
+── ReplicatedStorage.Shared.Resources.RewardResources.Configs.Codes  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	Codes = {
+		LOGI = {
+			Rewards = {
+				Structures = {
+					["Logistics Warehouse"] = 1
+				}
+			}
+		},
+		WOWPREMIUM = {
+			Rewards = {
+				Crates = {
+					Premium = 1
+				}
+			}
+		},
+		["120000LIKES"] = {
+			Rewards = {
+				Crates = {
+					Premium = 1
+				}
+			}
+		},
+		NAVY = {
+			Rewards = {
+				Crates = {
+					Premium = 1
+				}
+			}
+		},
+		SHIPS = {
+			Rewards = {
+				Crates = {
+					Premium = 1
+				}
+			}
+		},
+		["150000MEMBERS"] = {
+			Rewards = {
+				Crates = {
+					Premium = 1
+				}
+			}
+		},
+		["180000MEMBERS"] = {
+			Rewards = {
+				Crates = {
+					Premium = 1
+				}
+			}
+		}
+	}
+}
+············································································
+
+── ReplicatedStorage.Shared.Resources.RewardResources.Configs.GroupReward  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	PlaytimeRequirement = 900,
+	Money = 99999,
+	Crates = {
+		Premium = 1
+	}
+}
+··························································
+
+============================================================================
+  Place_91440994157417_[NAVY!] Build a Military Base_10-05-2026_21-58-08.rbxlx
+  2026-05-11  16:45:33   nodes: 2
+============================================================================
+
+── ReplicatedStorage  [ReplicatedStorage]
+   (no tracked properties)
+
+── ReplicatedStorage.Shared.Resources.RebirthResources.LootTables  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	LootTables = {
+		[1] = {
+			Monument = 1
+		},
+		[2] = {
+			Monument = 0.25,
+			["Apache Helipad"] = 0.25,
+			Clocktower = 0.25,
+			["Eiffel Tower"] = 0.25
+		},
+		[3] = {
+			Monument = 0.2,
+			["Apache Helipad"] = 0.2,
+			Clocktower = 0.2,
+			["Statue of Freedom"] = 0.2,
+			["Eiffel Tower"] = 0.2
+		},
+		[6] = {
+			Monument = 0.14,
+			["Apache Helipad"] = 0.14,
+			Clocktower = 0.14,
+			["Statue of Freedom"] = 0.14,
+			["Executive Residence"] = 0.16,
+			["Capitol Building"] = 0.14,
+			["Eiffel Tower"] = 0.14
+		},
+		[10] = {
+			Monument = 0.125,
+			["Apache Helipad"] = 0.125,
+			Clocktower = 0.125,
+			["Statue of Freedom"] = 0.125,
+			["Executive Residence"] = 0.125,
+			["Capitol Building"] = 0.125,
+			["Central Office"] = 0.125,
+			["Eiffel Tower"] = 0.125
+		},
+		[15] = {
+			Monument = 0.12,
+			["Apache Helipad"] = 0.11,
+			Clocktower = 0.11,
+			["Statue of Freedom"] = 0.11,
+			["Executive Residence"] = 0.11,
+			["Capitol Building"] = 0.11,
+			["Central Office"] = 0.11,
+			["Eiffel Tower"] = 0.11,
+			["Observation Tower"] = 0.11
+		}
+	}
+}
+············································································
+
+============================================================================
+
+── ReplicatedStorage.Shared.Resources.TraitResources.TraitsConfig  [ModuleScript]
+────────────────────────────────────────────────────────────────────────────
+return {
+	Test = {
+		Awakened = 0.2,
+		["Titanic I"] = 0.2,
+		["Tiny I"] = 0.2,
+		["Volatile I"] = 0.2,
+		["Swift I"] = 0.2,
+		["Supply Lines I"] = 0.2,
+		["Rapid Response I"] = 0.2,
+		Elite = 0.2,
+		["Overclocked I"] = 0.2,
+		Ghostly = 0.2
+	},
+	Production = {
+		["Overclocked I"] = 0.1,
+		["Overclocked II"] = 0.085,
+		["Overclocked III"] = 0.06,
+		["Overclocked IV"] = 0.04,
+		["Overclocked V"] = 0.0188,
+		["Overclocked VI"] = 0.015,
+		["Overclocked VII"] = 0.01,
+		["Overclocked VIII"] = 0.001,
+		["Overclocked IX"] = 0.001,
+		["Overclocked X"] = 0.001,
+		["Tiny I"] = 0.1,
+		["Tiny II"] = 0.085,
+		["Tiny III"] = 0.06,
+		["Tiny IV"] = 0.04,
+		["Tiny V"] = 0.022,
+		["Tiny VI"] = 0.015,
+		["Tiny VII"] = 0.001,
+		["Tiny VIII"] = 0.01,
+		["Tiny IX"] = 0.001,
+		["Tiny X"] = 0.001,
+		["Titanic I"] = 0.1,
+		["Titanic II"] = 0.085,
+		["Titanic III"] = 0.06,
+		["Titanic IV"] = 0.04,
+		["Titanic V"] = 0.02,
+		["Titanic VI"] = 0.015,
+		["Titanic VII"] = 0.01,
+		["Titanic VIII"] = 0.001,
+		["Titanic IX"] = 0.001,
+		["Titanic X"] = 0.001,
+		Awakened = 0.0001,
+		Ghostly = 0.0001
+	},
+	Unit = {
+		["Volatile I"] = 0.06358,
+		["Volatile II"] = 0.0425,
+		["Volatile III"] = 0.03,
+		["Volatile IV"] = 0.02,
+		["Volatile V"] = 0.01,
+		["Volatile VI"] = 0.0075,
+		["Volatile VII"] = 0.0005,
+		["Volatile VIII"] = 0.005,
+		["Volatile IX"] = 0.0005,
+		["Volatile X"] = 0.00005,
+		["Swift I"] = 0.05,
+		["Swift II"] = 0.04232,
+		["Swift III"] = 0.03,
+		["Swift IV"] = 0.02,
+		["Swift V"] = 0.01,
+		["Swift VI"] = 0.0075,
+		["Swift VII"] = 0.0005,
+		["Swift VIII"] = 0.005,
+		["Swift IX"] = 0.0005,
+		["Swift X"] = 0.00005,
+		["Tiny I"] = 0.08,
+		["Tiny II"] = 0.07,
+		["Tiny III"] = 0.06,
+		["Tiny IV"] = 0.04,
+		["Tiny V"] = 0.022,
+		["Tiny VI"] = 0.015,
+		["Tiny VII"] = 0.001,
+		["Tiny VIII"] = 0.01,
+		["Tiny IX"] = 0.001,
+		["Tiny X"] = 0.0001,
+		["Titanic I"] = 0.1,
+		["Titanic II"] = 0.085,
+		["Titanic III"] = 0.06,
+		["Titanic IV"] = 0.04,
+		["Titanic V"] = 0.02,
+		["Titanic VI"] = 0.015,
+		["Titanic VII"] = 0.001,
+		["Titanic VIII"] = 0.01,
+		["Titanic IX"] = 0.001,
+		["Titanic X"] = 0.0001,
+		["Rapid Response I"] = 0.01,
+		["Rapid Response II"] = 0.001,
+		["Supply Lines I"] = 0.01,
+		["Supply Lines II"] = 0.001,
+		["Supply Lines III"] = 0.0001,
+		Elite = 0.001,
+		Awakened = 0.0001,
+		Ghostly = 0.0001
+	},
+	Logistics = {
+		Overtime = 0.2,
+		["Employment Agency"] = 0.2
+	},
+	MissileTurret = {
+		Weaponized = 0.2,
+		Supersonic = 0.2,
+		Accuracy = 0.2
+	}
+}
+································································
